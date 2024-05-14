@@ -14,18 +14,10 @@ variable "yandex_zone" {
   default = "ru-central1-a"
 }
 
-variable "nat_image_id" {
-  default = "fd8e09l2blguqbdk5eej"
-}
-
-variable "public_private_image_id" {
-  default = "fd8igkjhaas0ssv7qqmv"
+variable "image_id" {
+  default = "fd827b91d99psvq5fjit"
 }
 
 variable "ssh_root_key" {
   default = "~/.ssh/id_ed25519.pub"
-}
-
-variable "nat-instance-ip" {
-  default = "192.168.10.254"
 }

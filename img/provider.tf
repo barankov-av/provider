@@ -13,4 +13,3 @@ provider "yandex" {
   folder_id = "${var.yandex_folder_id}"
   zone = "${var.yandex_zone}"
 }
-
