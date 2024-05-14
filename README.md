@@ -41,8 +41,8 @@
 ![Скриншот](img/9.JPG)
 
 
-[Файл provider.tf](./img/provider.tf)  
+[Файл provider.tf](./img/provider-.tf)  
 
-[Файл main.tf](./img/main.tf)  
+[Файл main.tf](./img/main-.tf)  
 
-[Файл variables.tf](./img/variables.tf)
+[Файл variables.tf](./img/variables-.tf)
